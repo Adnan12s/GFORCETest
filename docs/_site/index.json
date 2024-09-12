@@ -1,0 +1,27 @@
+{
+  "getting-started.html": {
+    "href": "getting-started.html",
+    "title": "Getting Started | DocfxApp",
+    "keywords": "Getting Started Welcome to the [Project Name] documentation. This section will guide you through the setup and initial steps required to integrate and start using [Project Name] effectively. Prerequisites Before you begin, ensure you have the following: [Requirement 1: e.g., Node.js 14.x installed] [Requirement 2: e.g., Python 3.8+] [Other Requirements] Installation To install [Project Name], run the following command: npm install [project-name]"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | DocfxApp",
+    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  },
+  "introduction.html": {
+    "href": "introduction.html",
+    "title": "Introduction | DocfxApp",
+    "keywords": "Introduction # Introduction ## What is [Project Name]? [Project Name] is a [brief description of the project, e.g., \"a powerful library for handling real-time data analytics\"]. This project aims to provide [mention the problem it solves or the need it fulfills]. ## Features - **Feature 1**: Description of the feature. - **Feature 2**: Description of the feature. - **Feature 3**: Description of the feature. - **And more**: Visit [link to features or docs] for detailed descriptions of all features. ## Use Cases - **Use Case 1**: Description of use case. - **Use Case 2**: Description of use case. - **Use Case 3**: Description of use case. This documentation will guide you through the various functionalities of [Project Name], covering both basic and advanced use cases. ## Who Should Use [Project Name]? [Project Name] is suitable for: - [Target Audience 1, e.g., Data Scientists] - [Target Audience 2, e.g., Web Developers] - [Target Audience 3, e.g., System Architects] ## Getting Help If you encounter any issues or have questions, you can: - [Check the FAQ](/docs/faq) - [Open an issue on GitHub](https://github.com/[username]/[project-name]/issues) - [Contact us](mailto:support@[projectname].com)"
+  },
+  "introduction1.html": {
+    "href": "introduction1.html",
+    "title": "Introduction | DocfxApp",
+    "keywords": "Introduction"
+  },
+  "introduction2.html": {
+    "href": "introduction2.html",
+    "title": "Introduction | DocfxApp",
+    "keywords": "Introduction"
+  }
+}
